@@ -1,15 +1,17 @@
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Lear24](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Lear24)
 
 He is currently a PhD candidate at the School of Statistics of Renmin University of China.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: lear@ruc.edu.cn
 
 #### Education
 
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Mathematics, Central University of Finance and Economics, 2020—2023.
+B.E., Finance, Southwestern University of Finance and Economics, 2016-2020.
+B.E., Mathematics, Southwestern University of Finance and Economics, 2016-2020.
+
 
 #### Research Interests
 
