@@ -1,12 +1,9 @@
+- Outstanding Graduate of Central University of Finance and Economics, 2023.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Master’s Thesis of Central University of Finance and Economics, 2023.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- National Scholarship for Postgraduate Students, 2022.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Yongjin Academic Award for Postgraduates, Central University of Finance and Economics, 2022.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Academic Scholarship, Central University of Finance and Economics, 2020-2022.
