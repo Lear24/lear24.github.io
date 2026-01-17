@@ -8,7 +8,9 @@ Email: lear@ruc.edu.cn
 #### Education
 
 M.E., Mathematics, Central University of Finance and Economics, 2020—2023.
+
 B.E., Finance, Southwestern University of Finance and Economics, 2016-2020.
+
 B.E., Mathematics, Southwestern University of Finance and Economics, 2016-2020.
 
 
