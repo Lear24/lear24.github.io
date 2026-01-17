@@ -1,4 +1,3 @@
-[![Lear24](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Lear24)
 
 He is currently a PhD candidate at the School of Statistics of Renmin University of China.
 
